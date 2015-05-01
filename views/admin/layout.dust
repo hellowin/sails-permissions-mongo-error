@@ -63,14 +63,14 @@ License: You must have a valid license purchased only from themeforest(the above
 <!-- DOC: Apply "page-full-width" class to the body element to have full width page without the sidebar menu -->
 <body class="page-md page-header-fixed page-sidebar-closed-hide-logo page-sidebar-closed-hide-logo">
 
-<%- partial('header.ejs') %>
+{>"admin/header"/}
 <!-- BEGIN CONTAINER -->
 <div class="page-container">
-  <%- partial('sidebar.ejs') %>
-  <%- body %>
+  {>"admin/sidebar"/}
+  {+body /}
 </div>
 <!-- END CONTAINER -->
-<%- partial('footer.ejs') %>
+{>"admin/footer"/}
 </body>
 
 <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
