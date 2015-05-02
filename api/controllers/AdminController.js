@@ -6,6 +6,9 @@
  */
 
 module.exports = {
+  main     : function (req, res) {
+    res.redirect('/admin/dashboard');
+  },
   dashboard: function (req, res) {
     res.view();
   }
