@@ -28,10 +28,18 @@ module.exports.policies = {
 
   '*': ['passport'],
 
+  AdminController: {
+    '*': ['passport', 'sessionAuth']
+  },
+
   BlogController: {
-    '*'   : ['passport', 'sessionAuth'],
-    create: ['passport', 'sessionAuth', 'setCreator'],
-    find  : ['passport']
+    '*' : ['passport', 'sessionAuth', 'setCreator'],
+    find: ['passport']
+  },
+
+  MediaController: {
+    '*' : ['passport', 'sessionAuth', 'setCreator'],
+    find: ['passport']
   }
 
 
