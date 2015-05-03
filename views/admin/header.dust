@@ -13,7 +13,7 @@
     </div>
     <!-- END LOGO -->
     <!-- BEGIN RESPONSIVE MENU TOGGLER -->
-    <a href="javascript:;" class="menu-toggler responsive-toggler" data-toggle="collapse" data-target=".navbar-collapse">
+    <a href="javascript:" class="menu-toggler responsive-toggler" data-toggle="collapse" data-target=".navbar-collapse">
     </a>
     <!-- END RESPONSIVE MENU TOGGLER -->
     <!-- BEGIN PAGE ACTIONS -->
@@ -25,26 +25,26 @@
         </button>
         <ul class="dropdown-menu" role="menu">
           <li>
-            <a href="javascript:;">
+            <a href="javascript:">
               <i class="icon-docs"></i> New Post </a>
           </li>
           <li>
-            <a href="javascript:;">
+            <a href="javascript:">
               <i class="icon-tag"></i> New Comment </a>
           </li>
           <li>
-            <a href="javascript:;">
+            <a href="javascript:">
               <i class="icon-share"></i> Share </a>
           </li>
           <li class="divider">
           </li>
           <li>
-            <a href="javascript:;">
+            <a href="javascript:">
               <i class="icon-flag"></i> Comments <span class="badge badge-success">4</span>
             </a>
           </li>
           <li>
-            <a href="javascript:;">
+            <a href="javascript:">
               <i class="icon-users"></i> Feedbacks <span class="badge badge-danger">2</span>
             </a>
           </li>
@@ -60,7 +60,7 @@
         <div class="input-group">
           <input type="text" class="form-control input-sm" placeholder="Search..." name="query">
 					<span class="input-group-btn">
-					<a href="javascript:;" class="btn submit"><i class="icon-magnifier"></i></a>
+					<a href="javascript:" class="btn submit"><i class="icon-magnifier"></i></a>
 					</span>
         </div>
       </form>
@@ -73,7 +73,7 @@
           <!-- BEGIN NOTIFICATION DROPDOWN -->
           <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
           <li class="dropdown dropdown-extended dropdown-notification dropdown-dark" id="header_notification_bar">
-            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+            <a href="javascript:" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
               <i class="icon-bell"></i>
 						<span class="badge badge-success">
 						7 </span>
@@ -86,7 +86,7 @@
               <li>
                 <ul class="dropdown-menu-list scroller" style="height: 250px;" data-handle-color="#637283">
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">just now</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-success">
@@ -96,7 +96,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">3 mins</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-danger">
@@ -106,7 +106,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">10 mins</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-warning">
@@ -116,7 +116,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">14 hrs</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-info">
@@ -126,7 +126,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">2 days</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-danger">
@@ -136,7 +136,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">3 days</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-danger">
@@ -146,7 +146,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">4 days</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-warning">
@@ -156,7 +156,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">5 days</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-info">
@@ -166,7 +166,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
                       <span class="time">9 days</span>
 										<span class="details">
 										<span class="label label-sm label-icon label-danger">
@@ -185,7 +185,7 @@
           <!-- BEGIN INBOX DROPDOWN -->
           <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
           <li class="dropdown dropdown-extended dropdown-inbox dropdown-dark" id="header_inbox_bar">
-            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+            <a href="javascript:" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
               <i class="icon-envelope-open"></i>
 						<span class="badge badge-danger">
 						4 </span>
@@ -277,7 +277,7 @@
           <!-- BEGIN TODO DROPDOWN -->
           <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
           <li class="dropdown dropdown-extended dropdown-tasks dropdown-dark" id="header_task_bar">
-            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+            <a href="javascript:" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
               <i class="icon-calendar"></i>
 						<span class="badge badge-primary">
 						3 </span>
@@ -290,7 +290,7 @@
               <li>
                 <ul class="dropdown-menu-list scroller" style="height: 275px;" data-handle-color="#637283">
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">New release v1.2 </span>
 										<span class="percent">30%</span>
@@ -301,7 +301,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">Application deployment</span>
 										<span class="percent">65%</span>
@@ -312,7 +312,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">Mobile app release</span>
 										<span class="percent">98%</span>
@@ -323,7 +323,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">Database migration</span>
 										<span class="percent">10%</span>
@@ -334,7 +334,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">Web server upgrade</span>
 										<span class="percent">58%</span>
@@ -345,7 +345,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">Mobile development</span>
 										<span class="percent">85%</span>
@@ -356,7 +356,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;">
+                    <a href="javascript:">
 										<span class="task">
 										<span class="desc">New UI release</span>
 										<span class="percent">38%</span>
@@ -374,7 +374,7 @@
           <!-- BEGIN USER LOGIN DROPDOWN -->
           <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
           <li class="dropdown dropdown-user dropdown-dark">
-            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+            <a href="javascript:" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
 						<span class="username username-hide-on-mobile">
 						Nick </span>
               <!-- DOC: Do not remove below empty space(&nbsp;) as its purposely used -->

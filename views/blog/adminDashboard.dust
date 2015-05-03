@@ -303,7 +303,7 @@
                     <img class="user-pic" src="/admin/admin/layout3/img/avatar4.jpg">
                   </td>
                   <td>
-                    <a href="javascript:" class="primary-link">Brain</a>
+                    <a href="javascript:;" class="primary-link">Brain</a>
                   </td>
                   <td>
                     $345
@@ -323,7 +323,7 @@
                     <img class="user-pic" src="/admin/admin/layout3/img/avatar5.jpg">
                   </td>
                   <td>
-                    <a href="javascript:" class="primary-link">Nick</a>
+                    <a href="javascript:;" class="primary-link">Nick</a>
                   </td>
                   <td>
                     $560
@@ -343,7 +343,7 @@
                     <img class="user-pic" src="/admin/admin/layout3/img/avatar6.jpg">
                   </td>
                   <td>
-                    <a href="javascript:" class="primary-link">Tim</a>
+                    <a href="javascript:;" class="primary-link">Tim</a>
                   </td>
                   <td>
                     $1,345
@@ -363,7 +363,7 @@
                     <img class="user-pic" src="/admin/admin/layout3/img/avatar7.jpg">
                   </td>
                   <td>
-                    <a href="javascript:" class="primary-link">Tom</a>
+                    <a href="javascript:;" class="primary-link">Tom</a>
                   </td>
                   <td>
                     $645
@@ -424,20 +424,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -455,20 +455,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -489,20 +489,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -520,20 +520,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -551,20 +551,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -582,20 +582,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -616,20 +616,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -650,20 +650,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -681,20 +681,20 @@
                     </div>
                     <div class="task-config">
                       <div class="task-config-btn btn-group">
-                        <a class="btn btn-xs default" href="javascript:" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                        <a class="btn btn-xs default" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                           <i class="fa fa-cog"></i><i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu pull-right">
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-check"></i> Complete </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-pencil"></i> Edit </a>
                           </li>
                           <li>
-                            <a href="javascript:">
+                            <a href="javascript:;">
                               <i class="fa fa-trash-o"></i> Cancel </a>
                           </li>
                         </ul>
@@ -707,7 +707,7 @@
             </div>
             <div class="task-footer">
               <div class="btn-arrow-link pull-right">
-                <a href="javascript:">See All Tasks</a>
+                <a href="javascript:;">See All Tasks</a>
               </div>
             </div>
           </div>
@@ -843,15 +843,15 @@
               <span class="caption-subject theme-font-color bold uppercase">Regional Stats</span>
             </div>
             <div class="actions">
-              <a class="btn btn-circle btn-icon-only btn-default" href="javascript:">
+              <a class="btn btn-circle btn-icon-only btn-default" href="javascript:;">
                 <i class="icon-cloud-upload"></i>
               </a>
-              <a class="btn btn-circle btn-icon-only btn-default" href="javascript:">
+              <a class="btn btn-circle btn-icon-only btn-default" href="javascript:;">
                 <i class="icon-wrench"></i>
               </a>
-              <a class="btn btn-circle btn-icon-only btn-default fullscreen" href="javascript:">
+              <a class="btn btn-circle btn-icon-only btn-default fullscreen" href="javascript:;">
               </a>
-              <a class="btn btn-circle btn-icon-only btn-default" href="javascript:">
+              <a class="btn btn-circle btn-icon-only btn-default" href="javascript:;">
                 <i class="icon-trash"></i>
               </a>
             </div>
@@ -875,23 +875,23 @@
                   </a>
                   <ul class="dropdown-menu pull-right">
                     <li>
-                      <a href="javascript:" id="regional_stat_world">
+                      <a href="javascript:;" id="regional_stat_world">
                         World </a>
                     </li>
                     <li>
-                      <a href="javascript:" id="regional_stat_usa">
+                      <a href="javascript:;" id="regional_stat_usa">
                         USA </a>
                     </li>
                     <li>
-                      <a href="javascript:" id="regional_stat_europe">
+                      <a href="javascript:;" id="regional_stat_europe">
                         Europe </a>
                     </li>
                     <li>
-                      <a href="javascript:" id="regional_stat_russia">
+                      <a href="javascript:;" id="regional_stat_russia">
                         Russia </a>
                     </li>
                     <li>
-                      <a href="javascript:" id="regional_stat_germany">
+                      <a href="javascript:;" id="regional_stat_germany">
                         Germany </a>
                     </li>
                   </ul>
@@ -961,7 +961,7 @@
                       </div>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1327,7 +1327,7 @@
                 <div class="scroller" style="height: 337px;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2">
                   <ul class="feeds">
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1350,7 +1350,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1396,7 +1396,7 @@
                       </div>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1419,7 +1419,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1442,7 +1442,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1465,7 +1465,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1488,7 +1488,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1511,7 +1511,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">
@@ -1534,7 +1534,7 @@
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:">
+                      <a href="javascript:;">
                         <div class="col1">
                           <div class="cont">
                             <div class="cont-col1">

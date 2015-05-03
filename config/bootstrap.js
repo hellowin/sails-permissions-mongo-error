@@ -14,25 +14,25 @@ var dust = require('dustjs-linkedin');
 module.exports.bootstrap = function (cb) {
   sails.services.passport.loadStrategies();
 
-  dust.helpers.exec = function (chunk, context, bodies, params) {
-    var args   = JSON.parse(params.args.replace(/'/g, '"'));
-    var object = context.stack.head;
-
-    console.log(object);
-
-    params.func.split('.').some(function (property) {
-      if (typeof(object[property]) === "function") {
-        var result = object[property].apply(object, args);
-        chunk.write(result);
-        return true;
-      } else {
-        object = object[property];
-        return false;
-      }
-    });
-
-    return chunk;
-  };
+  //dust.helpers.exec = function (chunk, context, bodies, params) {
+  //  var args   = JSON.parse(params.args.replace(/'/g, '"'));
+  //  var object = context.stack.head;
+  //
+  //  console.log(object);
+  //
+  //  params.func.split('.').some(function (property) {
+  //    if (typeof(object[property]) === "function") {
+  //      var result = object[property].apply(object, args);
+  //      chunk.write(result);
+  //      return true;
+  //    } else {
+  //      object = object[property];
+  //      return false;
+  //    }
+  //  });
+  //
+  //  return chunk;
+  //};
 
   //dust.helpers.i18n = function (chunk, context, bodies, params) {
   //  var object = context.stack.head;
