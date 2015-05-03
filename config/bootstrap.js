@@ -12,6 +12,18 @@
 module.exports.bootstrap = function (cb) {
   sails.services.passport.loadStrategies();
 
+  User.findOrCreate(
+    {username: 'hellowin', email: 'andi.n.dirgantara@gmail.com'},
+    {username: 'hellowin', email: 'andi.n.dirgantara@gmail.com'},
+    function (err, found) {
+      Passport.findOrCreate(
+        {user: found.id, protocol: 'local'},
+        {user: found.id, protocol: 'local', password: 'mp250909'},
+        function (err, passport) {
+          sails.log.info('bootstraped with \'hellowin\' username');
+        });
+    });
+
   // It's very important to trigger this callback method when you are finished
   // with the bootstrap!  (otherwise your server will never lift, since it's waiting on the bootstrap)
   cb();
