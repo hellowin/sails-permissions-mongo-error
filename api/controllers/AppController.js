@@ -6,6 +6,13 @@
  */
 
 module.exports = {
-	
+  main: function (req, res) {
+    res.redirect('/app/home');
+  },
+  home: function (req, res) {
+    res.view({
+      view: sails.view
+    });
+  }
 };
 
