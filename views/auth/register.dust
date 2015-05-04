@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-offset-4 col-xs-4">
+      <div class="section-title"><span>Register Form</span></div>
+      <% if (errors) { %>
+      <% errors.forEach(function (error) { %>
+      <div class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span
+              class="sr-only">Close</span></button><%= __(error) %></div>
+      <% }) %>
+      <% } %>
+      <form role="form" action="/auth/local/register" method="post" class="cannes-form">
+        <div class="form-group">
+          <input class="form-control" type="text" name="username" placeholder="Username" required/>
+        </div>
+        <div class="form-group">
+          <input class="form-control" type="text" name="firstName" placeholder="First Name">
+        </div>
+        <div class="form-group">
+          <input class="form-control" type="text" name="lastName" placeholder="Last Name">
+        </div>
+        <div class="form-group">
+          <input class="form-control" type="text" name="email" placeholder="Email" required/>
+        </div>
+        <div class="form-group">
+          <!--TODO: Beri informasi tambahan seperti apa ketentuan password, sementara diketahui string min 8 huruf-->
+          <input class="form-control" type="password" name="password" placeholder="Password" required/>
+        </div>
+
+        <div class="g-recaptcha space10" data-sitekey="6Lfx3wMTAAAAAL1qnzZdF8ymAgOvJKolrP32dhL5"></div>
+
+        <div class="form-group">
+          <button class="btn btn-default" type="submit">Sign up</button>
+          <a class="btn btn-danger" href="/">Cancel</a>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
