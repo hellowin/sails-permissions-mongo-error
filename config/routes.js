@@ -36,9 +36,13 @@ module.exports.routes = {
 
   'get /admin': 'AdminController.main',
 
-  'get /login'   : 'AuthController.login',
+  'get /login'   : {
+    view: 'auth/login'
+  },
   'get /logout'  : 'AuthController.logout',
-  'get /register': 'AuthController.register',
+  'get /register': {
+    view: 'auth/register'
+  },
 
   'post /auth/local'        : 'AuthController.callback',
   'post /auth/local/:action': 'AuthController.callback',

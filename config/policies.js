@@ -26,19 +26,36 @@ module.exports.policies = {
    *                                                                          *
    ***************************************************************************/
 
-  '*': ['passport'],
+  '*': [
+    'basicAuth',
+    'passport',
+    'sessionAuth',
+    'ModelPolicy',
+    'AuditPolicy',
+    'OwnerPolicy',
+    'PermissionPolicy',
+    'RolePolicy'
+  ],
+
+  AuthController: {
+    '*': ['passport']
+  },
+
+  AppController: {
+    '*': ['passport']
+  },
 
   AdminController: {
     '*': ['passport', 'sessionAuth']
   },
 
   BlogController: {
-    '*' : ['passport', 'sessionAuth', 'setCreator'],
+    '*' : ['passport', 'sessionAuth'],
     find: ['passport']
   },
 
   MediaController: {
-    '*' : ['passport', 'sessionAuth', 'setCreator'],
+    '*' : ['passport', 'sessionAuth'],
     find: ['passport']
   }
 
